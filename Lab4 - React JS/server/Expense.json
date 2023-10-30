@@ -1,0 +1,88 @@
+{
+    "items": [
+      {
+        "expenseDescription": "expense-1",
+        "payeeName": "Kalyan",
+        "price": 5000,
+        "date": "2023-10-30T00:17:38.930Z",
+        "id": 3
+      },
+      {
+        "expenseDescription": "expense-2",
+        "payeeName": "Sunil",
+        "price": 2000,
+        "date": "2023-10-29T00:17:38.930Z",
+        "id": 2
+      },
+      {
+        "expenseDescription": "expense-3",
+        "payeeName": "Sunil",
+        "price": 1000,
+        "date": "2023-10-28T00:23:02.173Z",
+        "id": 4
+      },
+      {
+        "expenseDescription": "expense-4",
+        "payeeName": "Kalyan",
+        "price": 1230,
+        "date": "2023-02-01T00:00:00.000Z",
+        "id": 5
+      },
+      {
+        "expenseDescription": "expense-5",
+        "payeeName": "Sunil",
+        "price": 6000,
+        "date": "2023-02-01T00:00:00.000Z",
+        "id": 6
+      },
+      {
+        "expenseDescription": "Internet Bill",
+        "payeeName": "Kalyan",
+        "price": 1000,
+        "date": "2023-02-01T00:00:00.000Z",
+        "id": 7
+      },
+      {
+        "expenseDescription": "Movie Expenses",
+        "payeeName": "Sunil",
+        "price": 6000,
+        "date": "2023-02-01T00:00:00.000Z",
+        "id": 8
+      },
+      {
+        "expenseDescription": "Trip to Goa",
+        "payeeName": "Sunil",
+        "price": 1456,
+        "date": "2023-10-17T00:00:00.000Z",
+        "id": 9
+      },
+      {
+        "expenseDescription": "Trip to Hyderabad",
+        "payeeName": "Sunil",
+        "price": 4543,
+        "date": "2023-10-22T00:00:00.000Z",
+        "id": 10
+      },
+      {
+        "expenseDescription": "Rent Car",
+        "payeeName": "Sunil",
+        "price": 2134,
+        "date": "2023-10-25T00:00:00.000Z",
+        "id": 11
+      },
+      {
+        "expenseDescription": "buy house",
+        "payeeName": "Sunil",
+        "price": 21231,
+        "date": "2023-09-01T00:00:00.000Z",
+        "id": 12
+      },
+      {
+        "expenseDescription": "Buy Car",
+        "payeeName": "Kalyan",
+        "price": 98765,
+        "date": "2023-10-26T00:00:00.000Z",
+        "id": 13
+      }
+    ]
+  }
